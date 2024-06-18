@@ -5,5 +5,5 @@ Embora o projeto seja pequeno e originalmente não exigisse o uso de Redux, deci
 O projeto consiste em uma aplicação de lista de tarefas, que oferece funcionalidades como inclusão, edição, conclusão, pesquisa e exclusão de tarefas existentes.
 
 # Como Iniciar.  
-Para inicializar o projeto é ne cessario rodar o comando 'npm install'
+Para inicializar o projeto é ne cessario rodar o comando `npm install`
 

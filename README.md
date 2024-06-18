@@ -3,3 +3,7 @@ Neste projeto, inicialmente desenvolvi utilizando apenas React. Posteriormente, 
 Essa abordagem permitiu uma comparação direta entre o código antes e depois da implementação do Redux.
 Embora o projeto seja pequeno e originalmente não exigisse o uso de Redux, decidi incorporá-lo como um exercício para explorar e entender seu funcionamento.
 O projeto consiste em uma aplicação de lista de tarefas, que oferece funcionalidades como inclusão, edição, conclusão, pesquisa e exclusão de tarefas existentes.
+
+# Como Iniciar.  
+Para inicializar o projeto é ne cessario rodar o comando 'npm install'
+

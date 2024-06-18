@@ -14,4 +14,5 @@ Para inicializar o projeto é ne cessario rodar o comando `npm install`
 * Redux
 * Babel
 * Webpack
+* Bootstrap
 

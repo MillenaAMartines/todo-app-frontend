@@ -7,3 +7,11 @@ O projeto consiste em uma aplicação de lista de tarefas, que oferece funcional
 # Como Iniciar.  
 Para inicializar o projeto é ne cessario rodar o comando `npm install`
 
+# Construido com 
+* JavaScript
+* Next.js
+* React
+* Redux
+* Babel
+* Webpack
+
